@@ -7,3 +7,4 @@ Python 3.13.7 Win10
 install I2Cpy [pip install -U i2cpy]
 
 
+<img width="485" height="873" alt="image" src="https://github.com/user-attachments/assets/00e135e6-7da1-426e-b6f7-5b26bc011f7b" />
